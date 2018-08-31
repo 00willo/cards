@@ -8,7 +8,7 @@ matrix:
       dist: xenial
       sudo: true
     - python: "3.8-dev"
-      env: TOXENV=3.8-dev
+      env: TOXENV=py38-dev
       dist: xenial
       sudo: true
     - python: "nightly"
